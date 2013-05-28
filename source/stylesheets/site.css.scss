@@ -3,10 +3,9 @@
 @import 'partials/_neat-settings';
 @import 'neat';
 
+// Third-party
+@import 'vendor/_normalize';
+// @import 'vendor/_html5bp';
+
 // Site
 @import 'partials/base';
-
-// Third-party
-@import 'vendor/_normalize.css';
-// @import 'vendor/_html5bp.css';
-
