@@ -1,9 +1,12 @@
 // Bourbon and Neat
-@import 'bourbon/bourbon';
+@import 'bourbon';
 @import 'partials/_neat-settings';
-@import 'neat/neat';
+@import 'neat';
+
+// Site
+@import 'partials/base';
 
 // Third-party
-@import 'vendor/normalize.css';
-// @import 'vendor/html5bp.css';
+@import 'vendor/_normalize.css';
+// @import 'vendor/_html5bp.css';
 
