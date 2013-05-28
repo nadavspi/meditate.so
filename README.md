@@ -1,4 +1,4 @@
-# A Middleman Project Template with Bourbon and HAML/SCSS flavor of HTML5 Boilerplate
+## A Middleman Project Template with Bourbon and HAML/SCSS flavor of HTML5 Boilerplate
 
 This is my personal go-to template for any new Middleman projects.
 
