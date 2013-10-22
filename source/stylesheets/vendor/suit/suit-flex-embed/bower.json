@@ -1,0 +1,10 @@
+{
+    "name": "suit-flex-embed",
+    "version": "1.1.1",
+    "author": "Nicolas Gallagher",
+    "main": "flex-embed.css",
+    "ignore": [
+        "CHANGELOG.md",
+        "test.html"
+    ]
+}

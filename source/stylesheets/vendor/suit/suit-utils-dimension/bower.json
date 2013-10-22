@@ -1,0 +1,10 @@
+{
+    "name": "suit-utils-dimension",
+    "version": "0.2.1",
+    "author": "Nicolas Gallagher",
+    "main": "dimension.css",
+    "ignore": [
+        "CHANGELOG.md",
+        "test.html"
+    ]
+}
