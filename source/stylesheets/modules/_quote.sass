@@ -1,0 +1,37 @@
+$quote-color: #c0f5ff
+
+@mixin bubble-left
+  margin-top: -30px
+  left: -30px
+  top: 30%
+
+
+@mixin bubble-bottom
+  margin-left: -30px
+  bottom: -30px
+  left: 50%
+
+
+.quote
+  position: relative
+  padding: 15px 25px 20px
+  margin: 20px auto
+  background: $quote-color
+  border-radius: 10px
+  font-size: 0.8em
+  +media($medium)
+    margin-left: 400px
+
+
+.quote:after
+  content: ''
+  position: absolute
+  border-style: solid
+  border-width: 30px 35px 30px 0
+  border-color: transparent $quote-color
+  display: block
+  width: 0
+  z-index: 1
+  // +bubble-bottom
+  +media($medium)
+    +bubble-left

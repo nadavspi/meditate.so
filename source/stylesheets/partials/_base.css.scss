@@ -2,5 +2,28 @@
 
 body {
   font-size: 1em;
-  line-height: 1.4;
+  line-height: 1.5;
+  padding-left: 25px;
+  padding-right: 25px;
+  @include media($medium) {
+    font-size: 1.5em;
+  }
+  @include media($large) {
+    font-size: 1.75em;
+  }
+}
+
+body:before, body:after {
+    content: "";
+    position: fixed;
+    background: #c44d58;
+    left: 0;
+    right: 0;
+    height: 15px;
+}
+body:before {
+    top: 0;
+}
+body:after {
+    bottom: 0;
 }

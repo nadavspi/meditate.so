@@ -6,17 +6,17 @@
   %head
     %meta{ charset: 'utf-8' }
     %meta{ content: 'IE=edge,chrome=1', 'http-equiv' => 'X-UA-Compatible' }
-    %title Page Title
+    %title A Crash Course in Meditation | Meditate.so
     %meta{ content: '', name: 'description' }
     %meta{ content: 'width=device-width', name: 'viewport' }
 
     = javascript_include_tag 'vendor/modernizr-2.6.2.min'
     = stylesheet_link_tag 'site'
+    <script type="text/javascript" src="//use.typekit.net/ujc5xqe.js"></script>
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
   %body
     /[if lt IE 7] <p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p>
-    %header
-    .main{ role: 'main' }= yield
-    %footer
+    = yield
 
     = javascript_include_tag '//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js'
     :javascript
