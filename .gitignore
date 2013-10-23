@@ -1,6 +1,6 @@
 # Ignore the Desktop Services Store files
 *.DS_Store
-
+meditate.so.scriv/
 # Ignore bundler config
 /.bundle
 
