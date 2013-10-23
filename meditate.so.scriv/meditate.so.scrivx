@@ -34,7 +34,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>88,0</TextSelection>
+                        <TextSelection>108,60</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="17" Type="Text" Created="2013-10-21 21:15:01 -0700" Modified="2013-10-21 21:16:59 -0700">
@@ -44,7 +44,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>217,0</TextSelection>
+                        <TextSelection>114,103</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="7" Type="Text" Created="2013-10-21 21:13:37 -0700" Modified="2013-10-22 14:14:38 -0700">
@@ -54,7 +54,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>323,0</TextSelection>
+                        <TextSelection>149,87</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="6" Type="Text" Created="2013-10-21 21:12:42 -0700" Modified="2013-10-22 14:16:30 -0700">
@@ -64,17 +64,17 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>171,0</TextSelection>
+                        <TextSelection>275,140</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="19" Type="Folder" Created="2013-10-21 21:21:34 -0700" Modified="2013-10-21 21:21:35 -0700">
+                <BinderItem ID="19" Type="Text" Created="2013-10-21 21:21:34 -0700" Modified="2013-10-22 16:07:42 -0700">
                     <Title>Noting</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>362,52</TextSelection>
                     </TextSettings>
                     <Children>
                         <BinderItem ID="8" Type="Text" Created="2013-10-21 21:13:40 -0700" Modified="2013-10-21 21:13:47 -0700">
@@ -87,14 +87,14 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="9" Type="Folder" Created="2013-10-21 21:13:41 -0700" Modified="2013-10-21 21:13:57 -0700">
+                        <BinderItem ID="9" Type="Text" Created="2013-10-21 21:13:41 -0700" Modified="2013-10-22 16:18:17 -0700">
                             <Title>four foundations</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>245,0</TextSelection>
                             </TextSettings>
                             <Children>
                                 <BinderItem ID="10" Type="Text" Created="2013-10-21 21:13:57 -0700" Modified="2013-10-21 21:14:01 -0700">
@@ -194,6 +194,18 @@
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
+            <Children>
+                <BinderItem ID="20" Type="Text" Created="2013-10-22 16:02:38 -0700" Modified="2013-10-22 16:02:40 -0700">
+                    <Title>Noting</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
     </Binder>
     <Collections>
@@ -228,7 +240,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-10-21 21:06:19 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="51" Characters="330" Date="2013-10-22 14:12:52 -0700"></PreviousSession>
+        <PreviousSession Words="158" Characters="989" Date="2013-10-22 17:19:19 -0700"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

@@ -6,6 +6,9 @@
         </Document>
         <Document ID="19">
             <Title>Noting</Title>
+            <Text>Earlier we said that vipassana is the process of continually noticing your experience and the sensations that it comprises. One way to do this is with the *noting technique*, where you use one word labels to describe whatever you’re experiencing. Every few seconds, you name whatever is taking center stage in that moment and note it silently or aloud.
+
+Turtle: Sound confusing? We’ll demonstrate in just a second!</Text>
         </Document>
         <Document ID="15">
             <Title>Resources</Title>
@@ -19,14 +22,14 @@
         <Document ID="11">
             <Title>Feeling tone</Title>
         </Document>
+        <Document ID="16">
+            <Title>About this site</Title>
+        </Document>
         <Document ID="4">
             <Title>Meditation comprises a variety of techniques that target</Title>
             <Text>Meditation comprises a variety of techniques that target the functioning of the mind. It can lead to profound perceptual and cognitive transformations that have traditonally been called spiritual enlightenment or awakening.
 
 Turtle: It might be more accurate to say *enlightenments* or *awaken-ing*, since the results of meditation are neither uniform nor steady state. </Text>
-        </Document>
-        <Document ID="16">
-            <Title>About this site</Title>
         </Document>
         <Document ID="5">
             <Title>Meditation can make you feel good, but it can also</Title>
@@ -45,7 +48,9 @@ Turtle: You might be shocked by how many thoughts you notice as soon as you sit 
         </Document>
         <Document ID="6">
             <Title>Buddhism</Title>
-            <Text>Shoshana Cooper quote
+            <Text>Although meditation comes from Buddhism, it has continued to evolve since coming to the West. As meditation has made its way into schools, hospitals, and workplaces, many teachers have developed a secular approach to these ancient practices. 
+
+Shoshana Cooper quote
 
 Turtle: It’s possible to divorce meditation from the religious trappings of its history, and look at it as as a technology for living a better life.</Text>
         </Document>
@@ -57,7 +62,7 @@ Turtle: It’s possible to divorce meditation from the religious trappings of it
             <Text>There are many kinds of meditation techniques that produce myriad results.
 We’re going to focus on *vipassana* or *insight meditation*, which is the process of continually noticing your experience and the sensations that it comprises. 
 
-</Text>
+Turtle: The kind of vipassana we’re talking about has its roots in Theravada Buddhism.</Text>
         </Document>
         <Document ID="18">
             <Title>Establishing the habit</Title>
@@ -68,8 +73,14 @@ We’re going to focus on *vipassana* or *insight meditation*, which is the proc
         <Document ID="14">
             <Title>Social noting</Title>
         </Document>
+        <Document ID="20">
+            <Title>Noting</Title>
+        </Document>
         <Document ID="9">
             <Title>four foundations</Title>
+            <Text>Now that we have a taste of noting, we’re going to explore a more robust framework for noting: the Four Foundations of Mindfulness. 
+
+Turtle: The Four Foundations of Mindfulness come from Buddhism. This interpretation is again from Kenneth Folk.</Text>
         </Document>
     </Documents>
 </SearchIndexes>

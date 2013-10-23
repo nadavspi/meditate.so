@@ -1,17 +1,18 @@
-%nav 
-  %a.nav--next{href: "#"} Next
-  %a.nav--previous{href: "/"} Previous
+.Site-main
+  %nav
+    %a.nav--next{href: "warning"} Next
+    %a.nav--previous{href: "/"} Previous
 
-%article.container.enlightenment
-  :markdown
-    Meditation comprises a variety of techniques that target the functioning of the mind. 
+  %article.container.enlightenment
+    :markdown
+      Meditation comprises a variety of techniques that target the functioning of the mind. 
 
-    It can lead to profound perceptual, cognitive, and emotional transformations that have traditionally been called spiritual enlightenment or awakening.
+      It can lead to profound perceptual, cognitive, and emotional transformations that have traditionally been called spiritual enlightenment or awakening.
 
-  %aside.turtle
-    %img.turtle__image{:src => "images/turtle.jpg", :alt => ""}/ 
-    %div.quote
+%aside.turtle.container
+  %img.turtle__image{:src => "images/turtle.jpg", :alt => ""}/ 
+  %div.quote
 
-      :markdown
-        It might be more accurate to say *enlightenments* or *awaken-ing*, since the results of meditation are neither uniform nor steady state. 
+    :markdown
+      It might be more accurate to say *enlightenments* or *awaken-ing*, since the results of meditation are neither uniform nor steady state. 
 
