@@ -14,7 +14,7 @@ $quote-color: #c0f5ff
 
 .quote
   position: relative
-  padding: 15px 25px 20px
+  padding: 15px 25px 15px 35px
   margin: 20px auto
   background: $quote-color
   border-radius: 10px
@@ -32,6 +32,8 @@ $quote-color: #c0f5ff
   display: block
   width: 0
   z-index: 1
-  // +bubble-bottom
+  +bubble-bottom
   +media($medium)
+    bottom: auto
+    margin-left: auto
     +bubble-left

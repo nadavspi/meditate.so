@@ -1,0 +1,38 @@
+$body-border-width-small: 7px
+$body-border-width-medium: 10px
+$body-border-width-large: 15px
+
+.body-border
+  background: #c44d58
+  position: fixed
+  z-index: 5
+
+#left, #right
+  top: 0
+  bottom: 0
+  width: $body-border-width-small
+  +media($medium)
+    width: $body-border-width-medium
+  +media($large)
+    width: $body-border-width-large
+
+#top, #bottom
+  left: 0
+  right: 0
+  height: $body-border-width-small
+  +media($medium)
+    height: $body-border-width-medium
+  +media($large)
+    height: $body-border-width-large
+
+#left
+  left: 0
+
+#right
+  right: 0
+
+#top
+  top: 0
+
+#bottom
+  bottom: 0

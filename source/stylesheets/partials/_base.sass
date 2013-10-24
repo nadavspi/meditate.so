@@ -9,39 +9,21 @@ body
   +media($medium)
     font-size: 1.5em
     line-height: 1.4
-
   +media($large)
     font-size: 2em
     line-height: 1.5
 
-  // border-top: 15px solid #c44d58;
-  // border-bottom: 15px solid #c44d58;
+h5
+  font-weight: normal
+  font-style: italic
 
-body:before, body:after
-  content: ""
-  position: fixed
-  background: #c44d58
-  left: 0
-  right: 0
-  height: 15px
-
-body:before
-  top: 0
-
-body:after
-  bottom: 0
-
-.Site
+section
   display: flex
-  min-height: 98vh
+  min-height: 100vh
   flex-direction: column
+  position: relative
 
-.Site-main
+.section-content
   flex: 1
-
-.Site-title
-  margin-top: 15%
-  text-shadow: 2px 3px 0 #e6e6e6
-  text-shadow: 3px 2px 2px #b3b3b3
 
 

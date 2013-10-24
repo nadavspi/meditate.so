@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ScrivenerProject Version="1.0" Creator="SCRMAC-2.4-22551">
     <Binder>
-        <BinderItem ID="0" Type="DraftFolder" Created="2013-10-21 21:06:20 -0700" Modified="2013-10-21 21:06:20 -0700">
+        <BinderItem ID="0" Type="DraftFolder" Created="2013-10-22 00:06:20 -0400" Modified="2013-10-22 00:06:20 -0400">
             <Title>Draft</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem ID="3" Type="Text" Created="2013-10-21 21:06:20 -0700" Modified="2013-10-21 21:06:30 -0700">
+                <BinderItem ID="3" Type="Text" Created="2013-10-22 00:06:20 -0400" Modified="2013-10-22 00:06:30 -0400">
                     <Title>Intro</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -17,7 +17,7 @@
                         <TextSelection>30,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="4" Type="Text" Created="2013-10-21 21:06:34 -0700" Modified="2013-10-21 21:07:05 -0700">
+                <BinderItem ID="4" Type="Text" Created="2013-10-22 00:06:34 -0400" Modified="2013-10-22 00:07:05 -0400">
                     <Title>Meditation comprises a variety of techniques that target</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -27,7 +27,7 @@
                         <TextSelection>370,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="5" Type="Text" Created="2013-10-21 21:07:06 -0700" Modified="2013-10-21 21:19:47 -0700">
+                <BinderItem ID="5" Type="Text" Created="2013-10-22 00:07:06 -0400" Modified="2013-10-22 00:19:47 -0400">
                     <Title>Meditation can make you feel good, but it can also</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -37,7 +37,7 @@
                         <TextSelection>108,60</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="17" Type="Text" Created="2013-10-21 21:15:01 -0700" Modified="2013-10-21 21:16:59 -0700">
+                <BinderItem ID="17" Type="Text" Created="2013-10-22 00:15:01 -0400" Modified="2013-10-22 00:16:59 -0400">
                     <Title>Not about stopping thoughts</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -47,7 +47,7 @@
                         <TextSelection>114,103</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="7" Type="Text" Created="2013-10-21 21:13:37 -0700" Modified="2013-10-22 14:14:38 -0700">
+                <BinderItem ID="7" Type="Text" Created="2013-10-22 00:13:37 -0400" Modified="2013-10-22 17:14:38 -0400">
                     <Title>Vipassana</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -57,7 +57,7 @@
                         <TextSelection>149,87</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="6" Type="Text" Created="2013-10-21 21:12:42 -0700" Modified="2013-10-22 14:16:30 -0700">
+                <BinderItem ID="6" Type="Text" Created="2013-10-22 00:12:42 -0400" Modified="2013-10-22 17:16:30 -0400">
                     <Title>Buddhism</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -67,7 +67,7 @@
                         <TextSelection>275,140</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="19" Type="Text" Created="2013-10-21 21:21:34 -0700" Modified="2013-10-22 16:07:42 -0700">
+                <BinderItem ID="19" Type="Text" Created="2013-10-22 00:21:34 -0400" Modified="2013-10-22 19:07:42 -0400">
                     <Title>Noting</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -77,7 +77,7 @@
                         <TextSelection>362,52</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="8" Type="Text" Created="2013-10-21 21:13:40 -0700" Modified="2013-10-21 21:13:47 -0700">
+                        <BinderItem ID="8" Type="Text" Created="2013-10-22 00:13:40 -0400" Modified="2013-10-22 00:13:47 -0400">
                             <Title>5 sense noting</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -87,7 +87,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="9" Type="Text" Created="2013-10-21 21:13:41 -0700" Modified="2013-10-22 16:18:17 -0700">
+                        <BinderItem ID="9" Type="Text" Created="2013-10-22 00:13:41 -0400" Modified="2013-10-22 19:18:17 -0400">
                             <Title>four foundations</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -97,7 +97,7 @@
                                 <TextSelection>245,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="10" Type="Text" Created="2013-10-21 21:13:57 -0700" Modified="2013-10-21 21:14:01 -0700">
+                                <BinderItem ID="10" Type="Text" Created="2013-10-22 00:13:57 -0400" Modified="2013-10-22 00:14:01 -0400">
                                     <Title>Body sensations</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -107,7 +107,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="11" Type="Text" Created="2013-10-21 21:14:01 -0700" Modified="2013-10-21 21:14:03 -0700">
+                                <BinderItem ID="11" Type="Text" Created="2013-10-22 00:14:01 -0400" Modified="2013-10-22 00:14:03 -0400">
                                     <Title>Feeling tone</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -117,7 +117,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="12" Type="Text" Created="2013-10-21 21:14:03 -0700" Modified="2013-10-21 21:14:08 -0700">
+                                <BinderItem ID="12" Type="Text" Created="2013-10-22 00:14:03 -0400" Modified="2013-10-22 00:14:08 -0400">
                                     <Title>Mind states</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -127,7 +127,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="13" Type="Text" Created="2013-10-21 21:14:08 -0700" Modified="2013-10-21 21:14:11 -0700">
+                                <BinderItem ID="13" Type="Text" Created="2013-10-22 00:14:08 -0400" Modified="2013-10-22 00:14:11 -0400">
                                     <Title>Thoughts</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -139,7 +139,7 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem ID="14" Type="Text" Created="2013-10-21 21:14:20 -0700" Modified="2013-10-21 21:14:32 -0700">
+                        <BinderItem ID="14" Type="Text" Created="2013-10-22 00:14:20 -0400" Modified="2013-10-22 00:14:32 -0400">
                             <Title>Social noting</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -151,7 +151,7 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="18" Type="Text" Created="2013-10-21 21:15:20 -0700" Modified="2013-10-21 21:15:23 -0700">
+                <BinderItem ID="18" Type="Text" Created="2013-10-22 00:15:20 -0400" Modified="2013-10-22 00:15:23 -0400">
                     <Title>Establishing the habit</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -161,7 +161,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="15" Type="Text" Created="2013-10-21 21:14:34 -0700" Modified="2013-10-21 21:14:46 -0700">
+                <BinderItem ID="15" Type="Text" Created="2013-10-22 00:14:34 -0400" Modified="2013-10-22 00:14:46 -0400">
                     <Title>Resources</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -171,7 +171,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="16" Type="Text" Created="2013-10-21 21:14:40 -0700" Modified="2013-10-21 21:14:42 -0700">
+                <BinderItem ID="16" Type="Text" Created="2013-10-22 00:14:40 -0400" Modified="2013-10-22 00:14:42 -0400">
                     <Title>About this site</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -183,19 +183,19 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem ID="1" Type="ResearchFolder" Created="2013-10-21 21:06:20 -0700" Modified="2013-10-21 21:06:20 -0700">
+        <BinderItem ID="1" Type="ResearchFolder" Created="2013-10-22 00:06:20 -0400" Modified="2013-10-22 00:06:20 -0400">
             <Title>Research</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
         </BinderItem>
-        <BinderItem ID="2" Type="TrashFolder" Created="2013-10-21 21:06:20 -0700" Modified="2013-10-21 21:06:20 -0700">
+        <BinderItem ID="2" Type="TrashFolder" Created="2013-10-22 00:06:20 -0400" Modified="2013-10-22 00:06:20 -0400">
             <Title>Trash</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem ID="20" Type="Text" Created="2013-10-22 16:02:38 -0700" Modified="2013-10-22 16:02:40 -0700">
+                <BinderItem ID="20" Type="Text" Created="2013-10-22 19:02:38 -0400" Modified="2013-10-22 19:02:40 -0400">
                     <Title>Noting</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -238,9 +238,9 @@
         </StatusItems>
     </StatusSettings>
     <ProjectTargets Notify="No">
-        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-10-21 21:06:19 -0700" IgnoreDeadline="Yes">0</DraftTarget>
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-10-22 00:06:19 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="158" Characters="989" Date="2013-10-22 17:19:19 -0700"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2013-10-24 00:42:21 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

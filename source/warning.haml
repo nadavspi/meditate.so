@@ -1,17 +1,16 @@
-.Site-main
-  %nav 
-    %a.nav--next.Button{:href => "reminder"} Next
-    %a.nav--previous.Button{:href => "meditation"} Previous
+%section 
+  .section-content
+    %nav 
+      %a.nav-next.nav-button{href: "#"} &darr;
 
-  %article.container
-    :markdown
-      Meditation can make you feel good, but it can also be boring, stressful, and frustrating at times.
+    %article.container
+      :markdown
+        Meditation can make you feel good, but it can also be boring, stressful, and frustrating at times.
 
 
-%aside.turtle.container
-  %img.turtle__image{:src => "images/turtle.jpg", :alt => ""}/ 
-  %div.quote
+  %aside.turtle.container
+    %img.turtle__image{:src => "images/turtle.jpg", :alt => ""}/ 
+    %div.quote
 
-    :markdown
-      It’s not a linear development of feeling better and better. 
-
+      :markdown
+        It’s not a linear development of feeling better and better. 

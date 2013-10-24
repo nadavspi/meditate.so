@@ -7,7 +7,7 @@ $grid-columns: 6;
 $max-width: 30em; // 68em
 
 $medium: new-breakpoint(min-width 42em 8);
-$large: new-breakpoint(min-width 60em 12);
+$large: new-breakpoint(min-width 78em 12);
 
 // Border-box-sizing
 $border-box-sizing: false; // We're setting a global border-box anyway - no need to repeat.

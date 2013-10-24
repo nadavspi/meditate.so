@@ -14,8 +14,12 @@
     = stylesheet_link_tag 'site'
     <script type="text/javascript" src="//use.typekit.net/ujc5xqe.js"></script>
     <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-  %body.Site
+    <!--[if lte IE 6]>
+    <style>.body-border { display: none; }</style>
+    <![endif]-->
+  %body
     /[if lt IE 7] <p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p>
+    = partial "body-border"
     = yield
 
     = javascript_include_tag '//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js'

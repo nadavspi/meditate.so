@@ -1,18 +1,36 @@
-.Site-main
-  %article
-    %header.u-textCenter
-      %h1.Site-title A Crash Course in Insight Meditation
-      %h2 
-        %a.u-linkClean{:href => "meditation"} Let's begin.
+%section#home
+  .section-content
+    %article
+      %header.u-textCenter
+        %h1#home-title A Crash Course in Insight Meditation
+        %h2 
+          %a#home-next.nav-next{:href => "#"} Let's begin.
 
 
-%aside.turtle.container
-  %img.turtle__image.tossing{:src => "images/turtle.jpg", :alt => ""}/ 
-  / %div.quote
+  %aside.turtle.container
+    %img.turtle__image{:src => "images/turtle.jpg", :alt => ""}/ 
+    %div.quote#home-quote
+      :markdown
+        Hi! I'm Sebastian, the meditating turtle. I'm gonna drop some knowledge on you.
 
-  /   :markdown
-  /     Hi, I'm Sebastian! I'm gonna drop some knowledge on you.
+= partial "meditation"
+= partial "warning"
+= partial "reminder"
+= partial "vipassana"
+= partial "buddhism"
+= partial "noting"
+= partial "noting-video"
+= partial "four-foundations-of-mindfulness"
+= partial "body-sensations"
+= partial "feeling-tone"
+= partial "mind-states"
+= partial "thoughts"
+= partial "social-noting"
+= partial "noting-off-the-cushion"
+= partial "the-meditation-habit"
+= partial "working-with-a-teacher"
+= partial "resources"
+= partial "about-this-site"
 
-  /     *If you're on a computer, you can use the arrow keys on your keyboard to navigate.*
 
 
