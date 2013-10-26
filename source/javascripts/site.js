@@ -23,7 +23,8 @@ $(document).ready(function(){
 
 $(document).ready(function(){
   var $root = $('html, body');
-  $('a.nav-next').click(function(){
+  $('a.nav-next').click(function(event){
+      event.preventDefault();
       $root.animate({
           scrollTop: $( $(this).closest('section').nextAll('section') ).offset().top
       }, 300);
