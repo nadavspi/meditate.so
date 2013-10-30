@@ -4,6 +4,7 @@
 
 activate :livereload
 activate :directory_indexes
+activate :gzip
 ###
 # Page options, layouts, aliases and proxies
 ###
