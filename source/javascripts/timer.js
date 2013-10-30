@@ -8,11 +8,12 @@ $(document).ready(function() {
     clearInterval(interval);
     interval = false;
   }
-  $(".timer-button").on("click", function() {
+  $(".timer-button").on("click", function(event) {
     var timer = $(this).closest(".timer");
     var seconds = timer.find(".timer-seconds");
     var minutes = timer.find(".timer-minutes");
     timer.toggleClass("is-running");
+    event.preventDefault();
     if (!interval) {
       var i = 0;
      interval = setInterval( function() {
