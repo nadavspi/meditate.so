@@ -1,6 +1,6 @@
 $(document).ready(function() {
   var interval;
-  var timer_limit = 3;
+  var timer_limit = 120;
   function pad(val) {
     return val > 9 ? val : "0" + val;
   }
