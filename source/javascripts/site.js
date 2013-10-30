@@ -24,11 +24,23 @@ $(document).ready(function(){
 $(document).ready(function(){
   var $root = $('html, body');
   $('a.nav-next').click(function(event){
-      event.preventDefault();
+    event.preventDefault();
+    if ($(this).text() != "Top") { 
       $root.animate({
           scrollTop: $( $(this).closest('section').nextAll('section') ).offset().top
       }, 300);
-      return false;
+    }
+    else {
+      $root.animate({
+          scrollTop: $( $(this).closest('section').prevAll('section').last() ).offset().top
+      }, 300);
+    }
+  });
+  $('a.nav-previous').click(function(event){
+      event.preventDefault();
+      $root.animate({
+          scrollTop: $( $(this).closest('section').prevAll('section') ).offset().top
+      }, 300);
   });
 });
 
